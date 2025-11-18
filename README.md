@@ -32,10 +32,13 @@ MODEL GRAPH:
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/12577201-466d-4ed0-ad78-32e92a947c6f" />
 
 TABULATION:
+![WhatsApp Image 2025-11-18 at 10 58 45_0b56cba5](https://github.com/user-attachments/assets/34472a47-4321-4793-8554-01c29f24b485)
 
 
 GRAPH: 
 
+![WhatsApp Image 2025-11-18 at 10 58 46_0bd98765](https://github.com/user-attachments/assets/529be274-1b99-4f43-8116-019c7d03d92d)
 
 RESULT:
 
+![WhatsApp Image 2025-11-18 at 10 58 46_e5263294](https://github.com/user-attachments/assets/bb5dc2ed-2691-4b0c-b154-fc2a09a318ef)
